@@ -33,7 +33,7 @@
 - DATABASE 
 
 ## 🌍 Languages
-- English, Hindi  
+- English, Hindi 
 
 ## 📫 Connect With Me
 - **Email:** omshripadkapale@gmail.com  
