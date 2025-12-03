@@ -8,7 +8,7 @@
 - Experienced in **Java (Spring Boot)** and **Python** with libraries like Pandas, NumPy, Matplotlib, and PyTorch.  
 - Currently learning **Data Science** and **AI/ML** to integrate intelligence into applications.  
 - Active on **LeetCode**, solving DSA and dynamic programming problems.  
-- Enthusiastic about contributing to **open source projects** and collaborating with the developer community.  
+- Enthusiastic about contributing to **open source projects** and collaborating with the developer community. 
 
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python, C, C++, Ruby, Perl, HTML, CSS, JavaScript  
