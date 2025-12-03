@@ -30,7 +30,7 @@
 - JAVA
 - ADVANCED JAVA
 - PYTHON
-- DATA BASE 
+- DATABASE 
 
 ## 🌍 Languages
 - English, Hindi  
