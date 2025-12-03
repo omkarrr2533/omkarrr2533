@@ -20,7 +20,17 @@
 - Nvidia: Application Development using Large Language Models  
 - IBM: AI Fundamentals (Diffusion Models, NLP, Machine Learning)  
 - Certified in Java Programming, Python, C, RDBMS, Advanced Java  
-- Ranked in the **Top 5% of College**  
+- Ranked in the **Top 5% of College**
+- Code with Harry (DATA SCIENCE) certifications
+- Apna College (AI/ML and DATA SCIENCE) certification 
+
+## 🎖️ Offline Certifications
+- C (language)
+- DATA STRUCTURE
+- JAVA
+- ADVANCED JAVA
+- PYTHON
+- DATABASE 
 
 ## 🌍 Languages
 - English, Marathi, Hindi  
