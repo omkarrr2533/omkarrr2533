@@ -27,9 +27,10 @@
 
 ## 📫 Connect With Me
 - **Email:** omshripadkapale@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **LeetCode:** [Your LeetCode Profile](#)  
-- **GitHub:** [omkarrr2533](https://github.com/omkarrr2533)  
+- **LinkedIn:** in/om-kapale-b861a228a
+- **LeetCode:**  https://leetcode.com/u/omiii_/
+- **GitHub:** [omkarrr2533](https://github.com/omkarrr2533)
+- **insta:** https://www.instagram.com/its_omkarrrrrr/?hl=en
 
 ---
 ✨ *I’m always open to collaboration on open source projects and innovative ideas. Let’s build something impactful together!*
