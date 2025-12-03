@@ -33,7 +33,7 @@
 - DATA BASE 
 
 ## 🌍 Languages
-- English, Marathi, Hindi  
+- English, Hindi  
 
 ## 📫 Connect With Me
 - **Email:** omshripadkapale@gmail.com  
