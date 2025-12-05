@@ -101,9 +101,6 @@ const om = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarrr2533&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarrr2533&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
 
 ---
 
