@@ -97,7 +97,6 @@ const om = {
 ## 🌍 Languages
 
 **Spoken Languages:** English, Hindi
-
 ---
 
 ## 💬 Let's Connect!
