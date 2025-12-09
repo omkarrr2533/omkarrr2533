@@ -81,7 +81,7 @@ const om = {
 - 🏅 Certified in Java Programming, Python, C, RDBMS, Advanced Java
 
 ### Offline Certifications
-- ✅ C Programming Language
+- ✅ C  
 - ✅ Data Structures
 - ✅ Java
 - ✅ Advanced Java
