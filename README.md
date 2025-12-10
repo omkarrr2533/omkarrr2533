@@ -109,5 +109,4 @@ I'm always excited to collaborate on **open source projects** and explore **inno
 </p>
 
 ---
-
 <p align="center">Made with ❤️ by Om Shripad Kapale</p>
