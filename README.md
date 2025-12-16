@@ -98,7 +98,7 @@ const om = {
 
 ## 💬 Let's Connect!
 
-I'm always excited to collaborate on **open source projects** and explore **innovative ideas**. Whether you're looking to build something impactful or just want to chat about tech, feel free to reach out
+I'm always excited to collaborate on **open source projects** and explore **innovative ideas**. Whether you're looking to build something impactful or just want to chat about tech, feel free to reach out!
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
