@@ -86,7 +86,6 @@ const om = {
 - ✅ Advanced Java
 - ✅ Python
 - ✅ Database Management
-
 ### Academic Achievements
 - 🏆 **Top 5% of College** - Outstanding Academic Performance
 - 📊 **CGPA: 8.11** (First Year)
