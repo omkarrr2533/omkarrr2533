@@ -67,7 +67,7 @@ const om = {
 - 📚 Exploring **ecological informatics**, **RAG agents**, and **LLM integration**
 - ⚡ **169 active days** on LeetCode | Max streak: 29 days
 
----
+--
 
 ## 🛠️ Tech Stack
 
