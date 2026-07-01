@@ -110,7 +110,7 @@ const om = {
 | 📚 **JabRef** | 2025 – 2026 | 1 PR merged · 200+ lines changed |
 | ⚡ **CircuitVerse** | 2025 – 2026 | 1 PR merged · 200+ lines changed |
 
-> **15+ total merged PRs across 5+ organizations · ~3000+ lines of code contributed**
+> **25+ total merged PRs across 5+ organizations · ~3000+ lines of code contributed**
 
 ---
 
@@ -124,9 +124,6 @@ Real-time bus tracking system with live location updates for college students.
 Full-stack web app for managing student records with CRUD operations.  
 `Java` `Spring Boot` `MySQL` `HTML/CSS`
 
-### 🔍 Fake News Detector *(Feb 2026)*
-Chrome extension that verifies news authenticity in real-time using AI/LLM.  
-`Python` `LLM Integration` `JavaScript` `Chrome Extension API`
 
 ---
 
@@ -137,7 +134,7 @@ Chrome extension that verifies news authenticity in real-time using AI/LLM.
 </p>
 
 <p align="center">
-  <strong>211 Problems Solved</strong> &nbsp;|&nbsp;
+  <strong>270+ Problems Solved</strong> &nbsp;|&nbsp;
   <strong>Contest Rating: 1416</strong> &nbsp;|&nbsp;
   <strong>169 Active Days</strong> &nbsp;|&nbsp;
   <strong>Max Streak: 29</strong>
