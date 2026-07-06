@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Om Shripad Kapale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=GSoC+2026+%40+PEcAn+Project+%F0%9F%8F%86;Backend+Developer+(Java+%C2%B7+Spring+Boot+%C2%B7+Python);Open+Source+Contributor+%7C+5%2B+Orgs;Final-Year+CSE+%7C+270%2B+LeetCode+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=GSoC+2026+%40+PEcAn+Project+%F0%9F%8F%86;Backend+Developer+(Java+%C2%B7+Spring+Boot+%C2%B7+Python);Open+Source+Contributor+%7C+5%2B+Orgs;Final-Year+CSE+%7C+211%2B+LeetCode+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
