@@ -22,7 +22,7 @@
   </a>
 </p>
 
----
+--
 
 ## 🏆 GSoC 2026 — PEcAn Project
 
